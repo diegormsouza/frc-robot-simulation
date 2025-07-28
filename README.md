@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![WPILib](https://img.shields.io/badge/WPILib-2025-brightgreen)
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e1a1c842-6cc0-447a-85ca-79f9d18a2b95" />
+![robotpy_sim](https://github.com/user-attachments/assets/4ebad6f2-2a2f-4e3e-b5e7-c01cbc2dc605)
 
 ## Overview
 
