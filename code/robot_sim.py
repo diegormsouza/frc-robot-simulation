@@ -8,7 +8,7 @@
              utilizando o SmartDashboard. É usado como base para testes de algoritmos no modo autônomo
              e teleoperado sem hardware físico.
 @version     2.1
-@date        2025-07-25
+@date        2025-07-26
 @license     MIT
 @authors     Diego Souza
 """
