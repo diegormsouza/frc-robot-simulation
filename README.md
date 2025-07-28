@@ -11,10 +11,10 @@
 This repository contains a Python-based simulation of a FIRST Robotics Competition (FRC) robot using the WPILib library. The simulation is designed to facilitate learning and experimentation with FRC robot programming, focusing on both **autonomous** and **teleoperated** modes. It features a differential drivetrain controlled via a joystick in teleoperated mode and programmable autonomous trajectories. The simulation integrates with **NetworkTables** and **SmartDashboard** for real-time visualization using **Glass**.
 
 The project consists of two main scripts:
-- **`robot.py`**: Implements the robot's control logic, including motor configuration, joystick input, and autonomous mode behaviors.
+- **`robot.py`**: The script that will be edited by students. Implements the robot's control logic, including motor configuration, joystick input, and autonomous mode behaviors.
 - **`robot_sim.py`**: Provides the simulation framework, managing the robot's pose (position and orientation) and visualizing it on a 2D field via Field2d in Glass.
 
-This project is ideal for FRC teams, students, and educators looking to practice and test robot algorithms without physical hardware.
+This project is ideal for students looking to practice and test robot algorithms without physical hardware.
 
 ## Features
 
