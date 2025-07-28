@@ -7,8 +7,8 @@
              robô com drivetrain diferencial, controlado por joystick no modo teleoperado e com movimento 
              programado no modo autônomo. Utiliza motores VictorSPX e integração com NetworkTables e SmartDashboard.
              TODO: Verificar como simular satisfatóriamente comandos e feedback de sensores.
-@version     1.8
-@date        2025-07-24
+@version     2.1
+@date        2025-07-26
 @license     MIT
 @authors     Diego Souza
 """
