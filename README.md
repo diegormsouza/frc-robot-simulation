@@ -74,13 +74,6 @@ This project is ideal for FRC teams, students, and educators looking to practice
    - Press button 3 (Xbox X button) to toggle a simulated mechanism (ON/OFF state displayed in NetworkTables).
    - Other mechanisms could be added via code
 
-## Project Structure
-frc-robot-simulation/
-├── main.py          # Main robot control script with autonomous and teleoperated logic
-├── robot_sim.py     # Simulation framework for pose tracking and Field2d visualization
-├── README.md        # This file
-└── LICENSE          # MIT License file
-
 ## Notes
 
 - **Simulation Limitations**: This is a simplified simulation and does not include sensor feedback or complex physics. Future improvements may address these (see TODO in `robot_sim.py`).
