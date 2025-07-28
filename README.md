@@ -1,8 +1,10 @@
-# FRC Robot Simulation with WPILib
+# Simplified FRC Robot Simulation with WPILib
 
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![WPILib](https://img.shields.io/badge/WPILib-2025-brightgreen)
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e1a1c842-6cc0-447a-85ca-79f9d18a2b95" />
 
 ## Overview
 
@@ -64,9 +66,13 @@ This project is ideal for FRC teams, students, and educators looking to practice
    - Launch Glass (available in the WPILib tools) to visualize the robot's movement on the 2D field.
    - The robot's pose (x, y, heading) and other data (e.g., time, command state) will be displayed in real-time.
 
+<img width="368" height="186" alt="image" src="https://github.com/user-attachments/assets/417fe73b-dc25-435d-ad19-e5a595ad173e" />
+
 4. **Select Autonomous Mode**:
    - Open **SmartDashboard** or use Glass to access the `Auto Selector` menu.
    - Choose from the available autonomous modes, created via script.
+
+<img width="851" height="249" alt="image" src="https://github.com/user-attachments/assets/b12ef705-53c7-4654-a715-2fbc5ece2d6e" />
 
 5. **Test Teleoperated Mode**:
    - Use a joystick or Xbox controller to control the robot.
