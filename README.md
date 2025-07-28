@@ -97,11 +97,6 @@ This project is ideal for students looking to practice and test robot algorithms
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Author
-
-- **Diego Souza**  
-  Created on July 26, 2025
-
 ## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve the simulation or add new features.
